@@ -19,4 +19,4 @@ The Age Calculator is a simple web application that allows users to calculate th
 - `style.css`: The CSS file that styles the Age Calculator application.
 
 ## Author
-[Your Name]
+Virendra Patel
