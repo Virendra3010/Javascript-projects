@@ -6,7 +6,7 @@ A simple and interactive password toggle feature that allows users to show or hi
 ## Features
 - Toggle password visibility by clicking the eye icon
 - Responsive design
-- Eye icon changes to indicate password visibility state
+- Eye icon changes to a indicate password visibility state
 
 ## Usage
 1. Enter your password in the input field.
